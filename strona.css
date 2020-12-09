@@ -1,0 +1,17 @@
+h3 {
+	font-size: 20px;
+	color: green;
+	background-color: black;
+	}
+dd {
+	font-size: 15px;
+	background-color: yellow;
+	}
+#przed_egzaminami
+	{
+		background-color: blue;
+	}
+#wyniki
+	{
+		background-color: red;
+	}
